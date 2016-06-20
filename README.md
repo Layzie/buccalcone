@@ -6,7 +6,7 @@
 
 ## Usage
 
-First, you need to login esa.io using [Personal access token](https://medley.esa.io/user/applications).
+First, you need to login esa.io using *Personal access token*.
 
 ```bash
 $ buccalcone login ESA_TOKEN
@@ -15,7 +15,7 @@ $ buccalcone login ESA_TOKEN
 Then you'll post local markdown file to your esa team. For example,
 
 ```bash
-buccalcone -T "YOUR"_TEAM -c "CATEGORY/TO/POST" -t "TITLE" -w README.md
+$ buccalcone -T "YOUR_TEAM" -c "CATEGORY/TO/POST" -t "TITLE" -w README.md
 ```
 
 Help is below.
