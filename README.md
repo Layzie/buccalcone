@@ -48,10 +48,10 @@ GLOBAL OPTIONS:
 
 ## Install
 
-To install, use `go get`:
+To install, use `go install`:
 
 ```bash
-$ go get -d github.com/Layzie/buccalcone
+$ go install github.com/Layzie/buccalcone
 ```
 
 or
